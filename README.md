@@ -1,6 +1,6 @@
 # Implementing Logistic Regression and Naive Bayes from scratch
 The primary motive of this project is to understand the crux of two major classification algorithms - Logistic Regression
-and Naive Bayes. These two algorithms were employed on four different datasets.
+and Naive Bayes. These two algorithms were employed on four different UCI datasets.
 - It is important to pre-process data in order to get accurate
 results
 - Small alpha will not assist in attaining the optimum but
