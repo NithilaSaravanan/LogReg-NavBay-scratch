@@ -13,7 +13,7 @@ because of the scarcity of training data
 
 ### Abstract from the report
 
-In this project, the performance of two Machine Learning (ML) algorithms, namely Logistic Regression (LR) and
+The performance of two Machine Learning (ML) algorithms, namely Logistic Regression (LR) and
 Gaussian Naive Bayes(GNB) was investigated on four benchmark
 datasets. The data was preprocessed where missing or irrelevant
 variables were removed and certain datasets were normalized
